@@ -39,7 +39,7 @@ Outside of code, I do **video editing** and **graphic design**, which shapes how
     <td width="50%" valign="top">
       <b>🖥️ Frontend &amp; Backend</b><br/>
       <sub>Modern web frameworks &amp; runtime</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,nodejs,nestjs,express,supabase&theme=dark" alt="Web stack" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,nodejs,nestjs,express,supabase,cs,dotnet&theme=dark" alt="Web stack" />
     </td>
   </tr>
   <tr>
