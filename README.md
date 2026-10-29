@@ -76,10 +76,3 @@ Outside of code, I do **video editing** and **graphic design**, which shapes how
 | [**EmojiScope**](https://github.com/bipinsitaula/EmojiScope) | Real-time face and hand tracking that maps expressions and gestures to emoji, holograms, filters and air drawing. | `Python` `MediaPipe` `OpenCV` |
 | [**Callbreak Scorekeeper**](https://github.com/bipinsitaula/Callbreak-Scorekeeper) | Tracks Call Break games: bids, tricks, rankings, history and the final winner. | `React` `Vite` |
 
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bipinsitaula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=2563eb&tex
