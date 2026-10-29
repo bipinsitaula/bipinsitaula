@@ -34,12 +34,12 @@ Outside of code, I do **video editing** and **graphic design**, which shapes how
     <td width="50%" valign="top">
       <b>&lt;/&gt; Languages</b><br/>
       <sub>Core programming languages</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,js,go,py&theme=dark" alt="Languages" />
+      <img src="https://skillicons.dev/icons?i=ts,js,go,py,cs&theme=dark" alt="Languages" />
     </td>
     <td width="50%" valign="top">
       <b>🖥️ Frontend &amp; Backend</b><br/>
       <sub>Modern web frameworks &amp; runtime</sub><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,nodejs,nestjs,express,supabase,cs,dotnet&theme=dark" alt="Web stack" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,nodejs,nestjs,express,supabase,dotnet&theme=dark" alt="Web stack" />
     </td>
   </tr>
   <tr>
@@ -82,17 +82,4 @@ Outside of code, I do **video editing** and **graphic design**, which shapes how
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=bipinsitaula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=2563eb&text_color=cbd5e1" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinsitaula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&text_color=cbd5e1" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bipinsitaula&theme=tokyonight&hide_border=true&background=0b1220&ring=2563eb&fire=2563eb&currStreakLabel=60a5fa" alt="Streak stats" />
-
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
-I'm open to collaborations, internships and interesting projects. If you have something in mind, reach out through my [portfolio](https://www.bipinsitaula.me) or [LinkedIn](https://www.linkedin.com/in/bipinsitaula).
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,50:0c1d45,100:0b1220&height=100&section=footer" alt="" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bipinsitaula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220&title_color=60a5fa&icon_color=2563eb&tex
